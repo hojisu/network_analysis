@@ -1,6 +1,6 @@
 # Social Network Analysis
 
-소셜 네트워크 분석을 통해 영향력이 높은 인플루언서 선별 모델링
+바이럴 마케팅에 활용할 소셜 인플루언서 선별 모형
 
 https://www.kaggle.com/yelp-dataset/yelp-dataset
 
